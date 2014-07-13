@@ -3,3 +3,5 @@
 Planowany czas operacjji - najbliższe dni.
 
 test
+
+cokolwiek
